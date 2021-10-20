@@ -11,9 +11,13 @@ The code is built in vs code.
 ![Code Snippets](https://github.com/Mrunal-13/corona-tracker/blob/master/covi%20tracker.png)
 ### Language
 python
-### Modules
+### Library
 tkinter
 
 datetime
 
 requests
+
+### 
+
+###                                                                                   ***Thank You***
