@@ -8,7 +8,7 @@ Every time you press the fetch data button it fetches you updated data of curren
 
 ## Platform
 The code is built in vs code.
-![Code Snippets]()
+![Code Snippets](https://github.com/Mrunal-13/corona-tracker/blob/master/covi%20tracker.png)
 ### Language
 python
 ### Modules
